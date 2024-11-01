@@ -1,0 +1,7 @@
+- id: semistandard
+  name: semistandard
+  description: 'Semistandard JS formatter'
+  entry: semistandard
+  language: node
+  files: \.js$
+  args: []
